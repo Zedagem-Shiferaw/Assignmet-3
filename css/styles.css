@@ -1,0 +1,27 @@
+.navbar-header a{ 
+  text-decoration: none;
+}
+.navbar-toggle{
+    margin-top: 30px;
+}
+.navbar-header{
+    height: 80px;
+}
+section div h2 {
+    margin-bottom: 30px;
+    
+}
+p.text-center{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+div.style{
+    background-color:aliceblue;
+    margin:20px 0; 
+    height:1000px; 
+    overflow: auto;
+
+    }
+
+
+
